@@ -1,2 +1,3 @@
 # GitReset
 B.Enkhtsetseg
+newline
